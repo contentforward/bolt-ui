@@ -1,11 +1,12 @@
-//+build wireinject
+//go:build wireinject
+// +build wireinject
 
 package wire
 
 import (
-	"github.com/boreq/bolt-ui/application"
-	"github.com/boreq/bolt-ui/internal/config"
-	"github.com/boreq/bolt-ui/internal/service"
+	"github.com/contentforward/bolt-ui/application"
+	"github.com/contentforward/bolt-ui/internal/config"
+	"github.com/contentforward/bolt-ui/internal/service"
 	"github.com/google/wire"
 	bolt "go.etcd.io/bbolt"
 )

@@ -5,9 +5,9 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/boreq/bolt-ui/application"
-	"github.com/boreq/bolt-ui/internal/fixture"
-	"github.com/boreq/bolt-ui/internal/wire"
+	"github.com/contentforward/bolt-ui/application"
+	"github.com/contentforward/bolt-ui/internal/fixture"
+	"github.com/contentforward/bolt-ui/internal/wire"
 	"github.com/stretchr/testify/require"
 	"go.etcd.io/bbolt"
 )

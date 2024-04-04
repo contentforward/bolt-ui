@@ -15,10 +15,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/boreq/bolt-ui/internal/config"
-	"github.com/boreq/bolt-ui/internal/wire"
-	"github.com/boreq/bolt-ui/logging"
 	"github.com/boreq/guinea"
+	"github.com/contentforward/bolt-ui/internal/config"
+	"github.com/contentforward/bolt-ui/internal/wire"
+	"github.com/contentforward/bolt-ui/logging"
 	"github.com/pkg/errors"
 )
 

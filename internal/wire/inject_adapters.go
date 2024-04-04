@@ -1,8 +1,8 @@
 package wire
 
 import (
-	"github.com/boreq/bolt-ui/adapters"
-	"github.com/boreq/bolt-ui/application"
+	"github.com/contentforward/bolt-ui/adapters"
+	"github.com/contentforward/bolt-ui/application"
 	"github.com/google/wire"
 	bolt "go.etcd.io/bbolt"
 )

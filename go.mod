@@ -1,4 +1,4 @@
-module github.com/boreq/bolt-ui
+module github.com/contentforward/bolt-ui
 
 require (
 	github.com/BurntSushi/toml v0.4.1 // indirect

@@ -6,9 +6,9 @@ import (
 	"net/http"
 
 	"github.com/NYTimes/gziphandler"
-	"github.com/boreq/bolt-ui/internal/config"
-	"github.com/boreq/bolt-ui/logging"
 	"github.com/boreq/errors"
+	"github.com/contentforward/bolt-ui/internal/config"
+	"github.com/contentforward/bolt-ui/logging"
 	"github.com/rs/cors"
 )
 

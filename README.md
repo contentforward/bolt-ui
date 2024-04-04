@@ -1,4 +1,4 @@
-# Bolt UI [![CI](https://github.com/boreq/bolt-ui/workflows/CI/badge.svg)][actions]
+# Bolt UI [![CI](https://github.com/contentforward/bolt-ui/workflows/CI/badge.svg)][actions]
 
 A web interface which lets you browse your [Bolt database](https://github.com/etcd-io/bbolt).
 
@@ -14,7 +14,7 @@ is secure by default by using TLS as well as a secure token.
 Currently the easiest way of installing Bolt UI is by using the Go programming
 language toolchain:
 
-    $ go install github.com/boreq/bolt-ui/cmd/bolt-ui@latest
+    $ go install github.com/contentforward/bolt-ui/cmd/bolt-ui@latest
 
 ## Usage
 
@@ -25,5 +25,5 @@ To view `bolt.database` using Bolt UI execute the following command:
 The security features can be disabled by using command line flags if you are
 using the program locally.
 
-[actions]: https://github.com/boreq/bolt-ui/actions
+[actions]: https://github.com/contentforward/bolt-ui/actions
 [screenshot]: https://user-images.githubusercontent.com/1935975/128639070-6c335b7a-26d9-4575-ae94-2250e31149c1.png

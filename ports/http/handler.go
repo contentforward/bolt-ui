@@ -5,11 +5,11 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/boreq/bolt-ui/application"
-	"github.com/boreq/bolt-ui/logging"
-	"github.com/boreq/bolt-ui/ports/http/frontend"
 	"github.com/boreq/errors"
 	"github.com/boreq/rest"
+	"github.com/contentforward/bolt-ui/application"
+	"github.com/contentforward/bolt-ui/logging"
+	"github.com/contentforward/bolt-ui/ports/http/frontend"
 	"github.com/julienschmidt/httprouter"
 )
 
